@@ -1,2 +1,2 @@
-# techhelp
+# tech-help
 Local Tech Help
